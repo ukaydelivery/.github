@@ -1,12 +1,5 @@
-## Hi there 👋
+# Ukay Furnite Delivery
+This organization will be used to host the code for the mobile application that has begun development during the FIU Fall 2023 semester by Capstone II Computer Science students.
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Disclaimer: All repositories hosted on this platform are protected by the GNU Affero General Public License version 3.0 (AGPL-3.0). Please review the terms and conditions of this license before accessing or using any code or content within these repositories. Your use of the software or materials contained herein is subject to compliance with the AGPL-3.0, including its provisions regarding distribution, modification, and open-source principles.
